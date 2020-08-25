@@ -1,0 +1,22 @@
+{
+    "name": "gruvbox-black",
+    "displayName": "gruvbox-black",
+    "description": "Gruvbox color syntax with pure black background for great contrast and 0 strain theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "publisher": "mandeepsran",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gruvbox Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gruvbox Black-color-theme.json"
+            }
+        ]
+    }
+}
