@@ -10,6 +10,10 @@
         "Themes"
     ],
     "publisher": "mandeepsran",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RandySiren/vscode-gruvbox-black.git"
+    },
     "contributes": {
         "themes": [
             {
